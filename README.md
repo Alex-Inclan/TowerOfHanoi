@@ -5,4 +5,5 @@ I created this Game as the final project for my CSD 122 Intro to Java Script Cla
 I like to think that the program runs well and that the code is easy to understand.
 
 Enjoy,
+
 Alex
